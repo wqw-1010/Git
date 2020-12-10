@@ -5,4 +5,4 @@ git diff
 git log
 git push
 gitk
-git branch
+git clone
