@@ -4,3 +4,4 @@ git status
 git diff
 git log
 git push
+gitk
