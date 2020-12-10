@@ -5,3 +5,4 @@ git diff
 git log
 git push
 gitk
+git clone
